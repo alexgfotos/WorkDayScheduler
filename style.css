@@ -52,8 +52,9 @@ input {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
-  text-align: right;
+  text-align: center;
   padding-top: 25px;
+  font-size: 25px;
 
 }
 
