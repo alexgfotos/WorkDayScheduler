@@ -54,7 +54,7 @@ input {
   border-top: 1px dashed #000000;
   text-align: center;
   padding-top: 25px;
-  font-size: 25px;
+  font-size: 2opx;
 
 }
 
@@ -87,5 +87,5 @@ input {
 }
 
 #btn-image {
-  size: 20px;
+  size: 60%;
 }
